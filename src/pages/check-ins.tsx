@@ -208,7 +208,7 @@ const needsCheckInData = [
     title: "Reduce customer acquisition cost by 20%",
     objective: {
       id: 3, 
-      title: "Optimize digital marketing performance"
+      title: "Optimize digital  marketing performance"
     },
     owner: {
       id: 1,
